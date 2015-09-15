@@ -9,4 +9,7 @@ function func2(){
 function func3(){
     echo "func3";
 }
+function func4(){
+    echo "func4";
+}
 ?>
