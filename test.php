@@ -12,7 +12,12 @@ function func3(){
 function func4(){
     echo "func4";
 }
+
+function func11(){
+    echo "func11";
+
 function func5(){
     echo "func5";
+
 }
 ?>
